@@ -1,6 +1,8 @@
-### A restaurant app
+### An experimental learning process
 
 #### Stack
 
 * hono
-* mongodb
+* supabase
+* jsx
+
